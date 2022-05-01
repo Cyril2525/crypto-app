@@ -84,7 +84,7 @@
           </div>
 
           <div class="why_trade1">
-          <div><h4>Fast Service</h4></div>
+          <div><h4>Good Service</h4></div>
               <div><p>Speed is key when you want to remit your money. You can expect to send your money within a matter of hours.</p></div>
           </div>
         </div>
